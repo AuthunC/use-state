@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.eg1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+.eg2 svg{
+  color: blue;
+}
